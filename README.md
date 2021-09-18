@@ -4,7 +4,6 @@
 - Atualmente estou aprendendo e me aperfeiçoando nas seguintes linguagens:
 - Python
 - C
-- C++
 - HTML
 - CSS
 - JS
