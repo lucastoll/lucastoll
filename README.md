@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando o 2° semestre de Engenharia da Computação pela FACENS e descobrindo meu caminho pela área de programação que me apaixonou.
+- 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando o 2° semestre de Engenharia da Computação pela FACENS e descobrindo meu caminho pela área de programação.
 
 
 - Atualmente estou aprendendo e me aperfeiçoando nas seguintes linguagens:
