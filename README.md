@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando Engenharia da Computação e descobrindo meu caminho pela área de programação.
+## 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando Engenharia da Computação e descobrindo meu caminho pela área de programação, no momento estou focando meus estudos na programação Front-End.
 
 <div align="center">
   <a href="https://github.com/lucastoll">
