@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando Engenharia da Computação e descobrindo meu caminho pela área de programação, estou focando meus estudos no Front-End e no momento estou aprimorando minhas noções de React.JS em conjunto com Next.JS e TypeScript, também estou estudando UX/UI
+## 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando Engenharia da Computação e descobrindo meu caminho pela área de programação, estou focando meus estudos no Front-End e no momento estou aprimorando minhas noções de React.JS em conjunto com Next.JS e TypeScript, também estou estudando UX/UI.
 
 <div align="center">
   <a href="https://github.com/lucastoll">
@@ -13,6 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://i.imgur.com/5B2GQGL.png">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Linguagem C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
