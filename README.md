@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando Engenharia da Computação e descobrindo meu caminho pela área de programação, estou focando meus estudos no Front-End e no momento estou aprimorando minhas noções de React.JS em conjunto com Next.JS e TypeScript, também estou estudando UX/UI.
+## 👋 Olá, eu sou o Lucas Fernandes Tolotto, estou cursando Engenharia da Computação e descobrindo meu caminho pela área de programação, estou focando meus estudos no Front-End e no momento estou aprimorando minhas noções de React.JS em conjunto com Next.JS e TypeScript.
 
 <div align="center">
   <a href="https://github.com/lucastoll">
