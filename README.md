@@ -1,4 +1,4 @@
-## 👋 Desenvolvedor Web e futuro engenheiro da computação movido a desafios, estou sempre buscando uma solução pra algo ou aprendendo algo novo, possuo experiência profissional em tecnologias como React.js, Next.js, Typescript, Angular, Vtex e Git, buscando sempre as melhores práticas de implementação e padrões de desenvolvimento.
+## 👋 Desenvolvedor e futuro engenheiro da computação movido a desafios, sempre buscando a solução de um problema ou novos aprendizados
 
 <div align="center">
   <a href="https://github.com/lucastoll">
@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastoll&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 
-## Tecnologias que utilizo.
+## Tecnologias que utilizo profissionalmente.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,8 +15,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://i.imgur.com/5B2GQGL.png">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Linguagem C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ## Links.
