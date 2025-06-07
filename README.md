@@ -1,16 +1,7 @@
-👋 Desenvolvedor e futuro engenheiro da computação movido a desafios, sempre buscando a solução de um problema ou novos aprendizados
+👋 Desenvolvedor movido a desafios, sempre buscando a solução de um problema ou novos aprendizados
 
+Tenho 3 anos de experiência e hoje atuo tanto no **front-end** quanto no **back-end**, atualmente cursando Engenharia da Computação
 
-## Tecnologias que utilizo profissionalmente.
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Node" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next" height="30" width="30" src="https://i.imgur.com/5B2GQGL.png">
-</div>
-  
 ## Links.
  
 <div> 
